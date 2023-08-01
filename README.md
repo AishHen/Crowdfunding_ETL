@@ -34,8 +34,9 @@ D. Exported the Category DataFrame as category.csv
 E. Exported the Subcategory DataFrame as subcategory.csv
 
 <img width="953" alt="image" src="https://github.com/AishHen/Crowdfunding_ETL/assets/131278014/9c5d49cb-b255-4205-adbd-92c498f866f0">
-![image](https://github.com/AishHen/Crowdfunding_ETL/assets/131278014/f09e35fb-0916-444b-a185-0f42bce9d5bf)
-![image](https://github.com/AishHen/Crowdfunding_ETL/assets/131278014/14488ede-ba7a-4718-9223-c733991c8e4b)
+<img width="464" alt="image" src="https://github.com/AishHen/Crowdfunding_ETL/assets/131278014/3c6141e5-e1d3-4d2e-b12a-f59ffc44ac17">
+<img width="560" alt="image" src="https://github.com/AishHen/Crowdfunding_ETL/assets/131278014/be600779-9fc9-4954-a658-6056531e0238">
+
 
 
 ### Step 2
